@@ -1,0 +1,23 @@
+= Hexagonal Architectura with Spring Data Example =
+
+This is an simple example about how to build an application with Hexagonal Architecture in a Spring Data Application.
+
+This application uses a H2 Data Base, wich is a Data Base in memory.
+
+== How to run it?
+
+```
+mvn spring-boot:run
+
+```
+
+
+== How can I test it?
+
+you have two different endpoints:
+
+Get - http://localhost:8080/users/user/{userId}
+
+Post - http://localhost:8080/users
+
+
