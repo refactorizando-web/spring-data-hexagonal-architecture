@@ -1,4 +1,4 @@
-= Hexagonal Architectura with Spring Data Example =
+= Hexagonal Architecture with Spring Data Example =
 
 This is an simple example about how to build an application with Hexagonal Architecture in a Spring Data Application.
 
