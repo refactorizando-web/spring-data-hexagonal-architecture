@@ -4,6 +4,8 @@ This is an simple example about how to build an application with Hexagonal Archi
 
 This application uses a H2 Data Base, wich is a Data Base in memory.
 
+If you want more information you can take a look in this post: https://refactorizando.com/ejemplo-de-arquitectura-hexagonal/
+
 == How to run it?
 
 ```
